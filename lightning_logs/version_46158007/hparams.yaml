@@ -1,0 +1,4 @@
+input_shape: !!python/tuple
+- 3
+- 224
+- 224
